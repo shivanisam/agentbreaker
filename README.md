@@ -169,7 +169,6 @@ snyk test --file=requirements.txt --package-manager=pip   # open-source dependen
 snyk code test                                            # static analysis (SAST)
 ```
 
-## Team
 
-Built by [Charannagadeep](https://github.com/Charannagadeep) for the AI Security
-Engineering Hackathon (Snyk x AWS).
+Built by [Shivani Naikoti](https://github.com/shivanisam) and [Charannagadeep](https://github.com/Charannagadeep) for the AI Security Engineering Hackathon (Snyk x AWS).## Team
+
